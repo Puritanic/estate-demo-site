@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background: url('./images/noisy_net.png');
+    background: url('images/noisy_net.png');
     background-size: contain;
     overflow-x: hidden;
 }
@@ -88,7 +88,7 @@ main article {
     text-align: justify;    
 }
 .secondBg {
-    background: url('./images/bgpic.jpg') no-repeat 50% 60%;
+    background: url('images/bgpic.jpg') no-repeat 50% 60%;
     background-size: cover;
     width: 100%;
     height: 100vh;
